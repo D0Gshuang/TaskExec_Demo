@@ -1,0 +1,2 @@
+# TaskExec_Demo
+通过COM组件实现WMI远程创建计划任务并执行
